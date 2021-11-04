@@ -1,0 +1,32 @@
+<?php defined('SYSTEMPATH') || exit('No direct script access allowed'); ?>
+
+CRITICAL - 2020-01-09 20:59:12 --> Use of undefined constant dasdas - assumed 'dasdas' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\DSWFinal\app\Views\welcome_message.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 127, Array)
+#1 C:\xampp\htdocs\DSWFinal\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DSWFinal\system\Common.php(176): CodeIgniter\View\View->render('welcome_message', Array, NULL)
+#3 C:\xampp\htdocs\DSWFinal\app\Controllers\Home.php(7): view('welcome_message')
+#4 C:\xampp\htdocs\DSWFinal\system\CodeIgniter.php(847): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\DSWFinal\system\CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\DSWFinal\system\CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\DSWFinal\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-01-09 20:59:25 --> Use of undefined constant dasdas - assumed 'dasdas' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\DSWFinal\app\Views\welcome_message.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 127, Array)
+#1 C:\xampp\htdocs\DSWFinal\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DSWFinal\system\Common.php(176): CodeIgniter\View\View->render('welcome_message', Array, NULL)
+#3 C:\xampp\htdocs\DSWFinal\app\Controllers\Home.php(7): view('welcome_message')
+#4 C:\xampp\htdocs\DSWFinal\system\CodeIgniter.php(847): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\DSWFinal\system\CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\DSWFinal\system\CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\DSWFinal\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-01-09 20:59:41 --> Use of undefined constant dasdas - assumed 'dasdas' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\DSWFinal\app\Views\welcome_message.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 127, Array)
+#1 C:\xampp\htdocs\DSWFinal\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\DSWFinal\system\Common.php(176): CodeIgniter\View\View->render('welcome_message', Array, NULL)
+#3 C:\xampp\htdocs\DSWFinal\app\Controllers\Home.php(7): view('welcome_message')
+#4 C:\xampp\htdocs\DSWFinal\system\CodeIgniter.php(847): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\DSWFinal\system\CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\DSWFinal\system\CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\DSWFinal\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

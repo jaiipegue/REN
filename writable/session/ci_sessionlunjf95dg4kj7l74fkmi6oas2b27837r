@@ -1,0 +1,3 @@
+__ci_last_regenerate|i:1612766567;_ci_previous_url|s:34:"http://localhost/sitio/misReportes";sidebar|s:364:"<a href=' http://localhost/DSWFinal/public/pqrs' class='list-group-item list-group-item-action bg-light'>Gestion de PQRS</a>
+			<a href=' http://localhost/DSWFinal/public/cpqrs' class='list-group-item list-group-item-action bg-light'>Mis PQRS</a>
+<a href=' http://localhost/DSWFinal/public/logout' class='list-group-item list-group-item-action bg-light'>Salir</a>";user|a:8:{s:2:"id";s:1:"9";s:7:"nombres";s:4:"Luis";s:9:"apellidos";s:4:"Soto";s:4:"edad";s:2:"19";s:12:"tipo_usuario";s:9:"Ciudadano";s:5:"email";s:7:"t@t.com";s:5:"clave";s:64:"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92";s:8:"telefono";s:10:"3214563321";}

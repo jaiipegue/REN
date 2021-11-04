@@ -1,0 +1,3 @@
+1. Abrir phpmyadmin, ir al apartado de SQL y pegar dentro el contenido del archivo ren.sql para crear la base de datos
+2. Copiar la carpeta DSWFinal en la carpeta htdocs de xamp o http://localhost/DSWFinal/public/login
+3. cargar la ruta http://localhost/DSWFinal/public/login o http://localhost/DSWFinal/public/registro
